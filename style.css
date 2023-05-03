@@ -1,0 +1,8 @@
+
+  body,*{background-color: black;}
+  .dollar{background-color: transparent; height: 30px;width: 30px;}
+  main{margin:100px;}
+  .price{border-left: green solid 2px;padding: 10px;border-right:unset;border-bottom: unset;border-top: unset;}
+ 
+
+ 
